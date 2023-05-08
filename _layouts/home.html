@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+  <h2 class="post-list-heading">{{ page.list_title | default: "" }}</h2> <!-- 未定義的變數，可用default-->
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+          <!--escape 是把特殊符號轉化-->
+        </a>
+      </h3>
+      
+      <!-- 找到post的第一張圖 -->
+      {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+          {% for image in images %}
+            {% if image contains 'src' %}
+                    {% if foundImage == 0 %}
+                    {% assign html = image | split:" />" | first %}
+
+      <a href="{{ post.url | relative_url }}"><img {{ html }} /></a>
+      {% assign foundImage = 1 %}
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+
+
+
+
+      {%- if site.show_excerpts -%}
+      <!-- 要在主页上显示后摘录，只需将以下内容添加到您的_config.yml：show_excerpts: true-->
+      {{ post.excerpt }}
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
+
+ 
+  {%- endif -%}
+
+</div>
+
+

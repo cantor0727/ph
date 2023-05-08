@@ -1,0 +1,61 @@
+I"N<p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
+
+<p>You can find the source code for Minima at GitHub:
+<a href="https://github.com/jekyll">jekyll</a> /
+<a href="https://github.com/jekyll/minima">minima</a></p>
+
+<p>You can find the source code for Jekyll at GitHub:
+<a href="https://github.com/jekyll">jekyll</a> /
+<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
+
+\[x^2+y^2=1\]
+
+<blockquote>
+  <p>花椒粉、鹽、黑胡椒粉</p>
+</blockquote>
+
+<blockquote>
+  <p>小米椒、糖、生抽、檸檬汁、魚露、蒜末…調汁</p>
+</blockquote>
+
+<blockquote>
+  <p>淋上調汁，撒上香菜即可上菜</p>
+</blockquote>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>let message = 'Hello world';
+alert(message);
+</code></pre></div></div>
+
+<style>
+    .row>div {
+        background: #ccc;
+        }
+
+    .row>div>div {
+        background: salmon;
+    }
+</style>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6"><div>col-md-6</div></div>
+        <div class="col-md-6"><div> col-md-6</div></div>
+    </div>
+    
+</div>
+
+<p>kiwi1</p>
+
+<p>kiwi2</p>
+
+<p>kiwi3</p>
+
+<p>Tui1</p>
+
+<p>Tui2</p>
+
+<p>Tui3</p>
+
+<p>Tui4</p>
+
+:ET

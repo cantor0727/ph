@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:8005/jekyll/update/2010/05/03/title.html</loc>
+<lastmod>2010-05-03T00:02:12+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:8005/about/</loc>
+</url>
+<url>
+<loc>http://localhost:8005/about2/</loc>
+</url>
+<url>
+<loc>http://localhost:8005/about3/</loc>
+</url>
+<url>
+<loc>http://localhost:8005/%E5%8D%97%E6%B5%B7/</loc>
+</url>
+<url>
+<loc>http://localhost:8005/aboutx2/</loc>
+</url>
+<url>
+<loc>http://localhost:8005/</loc>
+</url>
+</urlset>
