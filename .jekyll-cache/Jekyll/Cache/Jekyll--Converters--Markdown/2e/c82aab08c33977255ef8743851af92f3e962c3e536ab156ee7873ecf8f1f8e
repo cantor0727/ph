@@ -1,4 +1,4 @@
-I"E<p>澎湖北環除了有壯觀的玄武岩景觀
+I"N<p>澎湖北環除了有壯觀的玄武岩景觀
 及跨海大橋、漁翁島燈塔等為人稱道的知名景點外
 亦可以選擇搭船前往北海、東海等各小島進行遊覽及或進行各式海上活動</p>
 
@@ -11,7 +11,7 @@
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="row">
-        <div class="col-sm-6 "><img src="/assets/image/1.webp" /></div>
+        <div class="col-sm-6 "><img src="/ph/assets/image/1.webp" /></div>
         <div class="col-sm-6 ">
           <h2>全票 $500</h2>
           <p>澎湖東海是澎湖夜釣的重鎮之一</p>
@@ -46,7 +46,7 @@
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="row">
-        <div class="col-sm-6 "><img src="/assets/image/1.webp" /></div>
+        <div class="col-sm-6 "><img src="/ph/assets/image/1.webp" /></div>
         <div class="col-sm-6 ">
           <h2>全票 $500</h2>
           <p>澎湖東海是澎湖夜釣的重鎮之一</p>
@@ -83,7 +83,7 @@
     </h2>
     <div id="collapse1" class="accordion-collapse collapse" aria-labelledby="heading1" data-bs-parent="#accordionExample">
       <div class="row">
-        <div class="col-sm-6 "><img src="/assets/image/1.webp" /></div>
+        <div class="col-sm-6 "><img src="/ph/assets/image/1.webp" /></div>
         <div class="col-sm-6 ">
           <h2>全票 $500</h2>
           <p>澎湖東海是澎湖夜釣的重鎮之一</p>

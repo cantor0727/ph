@@ -19,7 +19,7 @@ permalink: "/about2/"
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
       data-bs-parent="#accordionExample">
       <div class="row">
-        <div class="col-sm-6 "><img src="/assets/image/1.webp"></div>
+        <div class="col-sm-6 "><img src="/ph/assets/image/1.webp"></div>
         <div class="col-sm-6 ">
           <h2>全票 $500</h2>
           <p>澎湖東海是澎湖夜釣的重鎮之一</p>
@@ -56,7 +56,7 @@ permalink: "/about2/"
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
       data-bs-parent="#accordionExample">
       <div class="row">
-        <div class="col-sm-6 "><img src="/assets/image/1.webp"></div>
+        <div class="col-sm-6 "><img src="/ph/assets/image/1.webp"></div>
         <div class="col-sm-6 ">
           <h2>全票 $500</h2>
           <p>澎湖東海是澎湖夜釣的重鎮之一</p>
@@ -95,7 +95,7 @@ permalink: "/about2/"
     <div id="collapse1" class="accordion-collapse collapse" aria-labelledby="heading1"
       data-bs-parent="#accordionExample">
       <div class="row">
-        <div class="col-sm-6 "><img src="/assets/image/1.webp"></div>
+        <div class="col-sm-6 "><img src="/ph/assets/image/1.webp"></div>
         <div class="col-sm-6 ">
           <h2>全票 $500</h2>
           <p>澎湖東海是澎湖夜釣的重鎮之一</p>
